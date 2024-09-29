@@ -12,15 +12,6 @@
                 <br>
                 <br>
         </samp>
-        <!-- Technologies -->
-        <!-- JavaScript -->
-        <!-- <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a> -->
-        <!-- TailwindCSS -->
-        <!-- <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a> -->
 </p>
 </div>
 
@@ -29,7 +20,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=brandonkly18&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=676565&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
-
 </div>
 
 <picture>
@@ -40,6 +30,39 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<p align="left" style="display:none">
+<!-- Badges (saving for later) -->
+<!-- <div align="center">
+  <samp>
+    i like these
+  </samp>
+  <p style="height: 20px;">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="tech badge">
+    <img style="margin-right: 3px; border-radius: 4px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="tech badge">
+  </p>
+</div> -->
+
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=brandonkylely&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
