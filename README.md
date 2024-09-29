@@ -8,7 +8,7 @@
         <samp>
                 「 i'm a software developer from <b>los angeles</b> 」
                 <br>
-                「 ucla alum | compi sci + biochem | full-stack | devops | caffeine-driven development 」
+                「 ucla alum | comp sci + biochem | full-stack | devops | caffeine-driven development 」
                 <br>
                 <br>
         </samp>
